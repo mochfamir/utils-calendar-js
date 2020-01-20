@@ -1,0 +1,22 @@
+{
+  "name": "utils-calendar-js",
+  "version": "0.1.0",
+  "description": "Function to get whole date by month",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochfamir/utils-calendar-js.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "mochfamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochfamir/utils-calendar-js/issues"
+  },
+  "homepage": "https://github.com/mochfamir/utils-calendar-js#readme"
+}
